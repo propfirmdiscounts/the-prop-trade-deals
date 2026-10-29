@@ -1,0 +1,8 @@
+# thePropTrade Discount Codes
+
+This dataset tracks historical deal observations for thePropTrade from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (20%)
+Works any time on all thePropTrade challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
