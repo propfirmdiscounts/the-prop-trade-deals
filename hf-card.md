@@ -1,45 +1,68 @@
 ---
 license: other
+pretty_name: thePropTrade Discount Code
 configs:
 - config_name: the-prop-trade-deals
   data_files:
   - split: data
     path: datasets/the-prop-trade-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - the-prop-trade
 ---
 
-# thePropTrade - Discount Codes & Deal History
+# thePropTrade Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-27, the verified thePropTrade discount code is **PFD** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/the-prop-trade/
+> thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders.
+> After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million.
+> At thePropTrade, we believe in simplicity, transparency and sustainability when it comes to our products. Our trading objectives are based on sustainable risk management principles and they allow our clients to improve their skills and build healthy trading habits.
+>
+> — thePropTrade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/theproptrade.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-27
+- Trustpilot: 3.6/5 (99 reviews)
+- Activate: https://propfirmdiscount.com/go/theproptrade
+- Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **20% off** on thePropTrade challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all thePropTrade evaluation accounts.
+## Current thePropTrade deal: Halloween 20% cut on every programme and account size
+
+- Published: 2026-10-27
+- Offer ends: 2026-10-31 19:59
+- Offer: 20% off
+- Scope: Any Programme, Any Account Size, First Challenge, Returning Buyer, One Code Per Order
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
+
+## thePropTrade discount code FAQ
+
+**What is the thePropTrade discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 20% off thePropTrade challenges and accounts.
+
+**Does the thePropTrade discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current thePropTrade deal?**
+
+**Halloween 20% cut on every programme and account size** — published 2026-10-27. Offer ends: 2026-10-31 19:59. The offer is 20% off.
 
 ---
 
-## Latest Deal
-
-### thePropTrade - Halloween 20% cut on every programme and account size
-
-**Published:** 2026-10-27  
-**Offer ends:** 2026-10-31 19:59  
-**Discount:** 20% off  
-**Scope:** Any Programme, Any Account Size, First Challenge, Returning Buyer, One Code Per Order  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **37**
 
@@ -92,19 +115,20 @@ Total deals tracked: **37**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **thePropTrade** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **thePropTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/the-prop-trade/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/the-prop-trade/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
