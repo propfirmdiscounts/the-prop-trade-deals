@@ -1,6 +1,6 @@
 # thePropTrade Discount Code
 
-As of 2026-10-27, the verified thePropTrade discount code is **PFD** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-27, the verified thePropTrade discount code is PFD — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders.
 > After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million.
@@ -21,7 +21,7 @@ As of 2026-10-27, the verified thePropTrade discount code is **PFD** — up to 2
 ## Current thePropTrade deal: Halloween 20% cut on every programme and account size
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31 19:59
+- Offer ends: 2026-10-31 19:59 (ended)
 - Offer: 20% off
 - Event: Halloween
 - Scope: Any Programme, Any Account Size, First Challenge, Returning Buyer, One Code Per Order
@@ -40,7 +40,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current thePropTrade deal?**
 
-**Halloween 20% cut on every programme and account size** — published 2026-10-27. Offer ends: 2026-10-31 19:59. The offer is 20% off.
+**Halloween 20% cut on every programme and account size** — published 2026-10-27. Offer ends: 2026-10-31 19:59 (ended). The offer is 20% off.
 
 ---
 
@@ -52,7 +52,7 @@ Total deals tracked: **37**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-27 | Halloween 20% cut on every programme and account size | 20% off | 2026-10-31 19:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) |
+| 2026-10-27 | Halloween 20% cut on every programme and account size | 20% off | 2026-10-31 19:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) |
 | 2026-10-07 | 22% Off All Evaluation Accounts | 22% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) |
 | 2026-07-06 | 20% Discount On Standard And Instant | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-standard-instant/) |
 | 2026-06-22 | 20% Reduction on Single-Phase Challenge Fees | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-1-step-classic/) |
