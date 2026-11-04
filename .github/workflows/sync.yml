@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: theproptrade
   FIRM_SLUG: the-prop-trade
   DEALSTORE_ID: 133
   FIRM_NAME: thePropTrade
