@@ -12,11 +12,12 @@ As of 2026-11, the verified thePropTrade discount code is PFD — 20% OFF, works
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
-- Trustpilot: 3.5/5 (98 reviews)
-- Activate: https://propfirmdiscount.com/go/theproptrade
-- Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.5/5 (98 reviews)](https://www.trustpilot.com/review/theproptrade.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/the-prop-trade-deals](https://github.com/propfirmdiscounts/the-prop-trade-deals)
+- Activate: [https://propfirmdiscount.com/go/theproptrade](https://propfirmdiscount.com/go/theproptrade)
+- Firm page: [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current thePropTrade deal: Halloween 20% cut on every programme and account size
 
@@ -26,7 +27,7 @@ As of 2026-11, the verified thePropTrade discount code is PFD — 20% OFF, works
 - Event: Halloween
 - Scope: Any Programme, Any Account Size, First Challenge, Returning Buyer, One Code Per Order
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
+- Deal page: [https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/)
 
 ## thePropTrade discount code FAQ
 
@@ -101,9 +102,9 @@ Total deals tracked: **37**
 
 This repository mirrors every deal **thePropTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/the-prop-trade/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/the-prop-trade-deals.json`
 
