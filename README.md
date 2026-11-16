@@ -1,6 +1,6 @@
 # thePropTrade - Discount Codes & Deal History
 
-As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "Halloween 20% cut on every programme and account size".
 
 > thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders.
 > After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million.
@@ -13,11 +13,11 @@ As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF,
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
 - Trustpilot: [3.5/5 (98 reviews)](https://www.trustpilot.com/review/theproptrade.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/the-prop-trade-deals](https://github.com/propfirmdiscounts/the-prop-trade-deals)
-- Activate: [https://propfirmdiscount.com/go/theproptrade](https://propfirmdiscount.com/go/theproptrade)
-- Firm page: [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [thePropTrade Deals Repository](https://github.com/propfirmdiscounts/the-prop-trade-deals)
+- Activate: [Activate thePropTrade Discount Code](https://propfirmdiscount.com/go/theproptrade)
+- Firm page: [thePropTrade Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [thePropTrade API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current thePropTrade deal: Halloween 20% cut on every programme and account size
 
@@ -27,7 +27,7 @@ As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF,
 - Event: Halloween
 - Scope: Any Programme, Any Account Size, First Challenge, Returning Buyer, One Code Per Order
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/)
+- Deal page: [thePropTrade Deal Page](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/)
 
 ## thePropTrade discount code FAQ
 
@@ -102,9 +102,9 @@ Total deals tracked: **37**
 
 This repository mirrors every deal **thePropTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [thePropTrade Profile](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/the-prop-trade-deals.json`
 
@@ -147,4 +147,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
