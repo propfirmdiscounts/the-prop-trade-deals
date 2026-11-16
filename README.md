@@ -1,6 +1,6 @@
 # thePropTrade - Discount Codes & Deal History
 
-As of 2026-11, the verified thePropTrade discount code is PFD — 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders.
 > After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million.
