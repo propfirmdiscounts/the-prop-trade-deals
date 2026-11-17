@@ -1,4 +1,4 @@
-# thePropTrade Discount Codes
+# thePropTrade Discount Code & Deals History
 
 This dataset tracks historical deal observations for thePropTrade from PropFirmDiscount.com.
 

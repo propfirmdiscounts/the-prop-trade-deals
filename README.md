@@ -1,4 +1,4 @@
-# thePropTrade Discount Code & Deal History
+# thePropTrade Discount Code, Deals History & Dataset
 
 As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "Halloween 20% cut on every programme and account size".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF,
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-27
 - Trustpilot: [3.5/5 (99 reviews)](https://www.trustpilot.com/review/theproptrade.com)
-- GitHub repository: [thePropTrade Deals Repository](https://github.com/propfirmdiscounts/the-prop-trade-deals)
+- GitHub repository: [thePropTrade Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/the-prop-trade-deals)
 - Activate: [Activate thePropTrade Discount Code](https://propfirmdiscount.com/go/theproptrade)
 - Firm page: [thePropTrade Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -29,7 +29,7 @@ As of November 2026, the verified thePropTrade discount code is PFD — 20% OFF,
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [thePropTrade Deal Page](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/)
 
-## thePropTrade Discount Code & Deals FAQ
+## thePropTrade Discount Code & Deals History FAQ
 
 **What is the thePropTrade discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## thePropTrade Deal History
+## thePropTrade Deals History
 
 Total deals tracked: **37**
 
@@ -98,7 +98,7 @@ Total deals tracked: **37**
 
 ---
 
-## About the thePropTrade Deals Dataset
+## About the thePropTrade Discount Code & Deals History Dataset
 
 This repository mirrors every deal **thePropTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -106,7 +106,7 @@ This repository mirrors every deal **thePropTrade** has published on PropFirmDis
 - Prop firm profile: [thePropTrade Profile](https://propfirmdiscount.com/prop-firm/the-prop-trade/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## thePropTrade Deal Dataset: Field Definitions
+## thePropTrade Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
